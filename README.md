@@ -10,3 +10,6 @@ Fundamentos de Estatística usando Python
 
 Aula 03 - Curso 01:
 Fundamentos e aplicações da biblioteca de manipulação de Dados Pandas - Parte 01.
+
+Aula 04 - Curso 01:
+Fundamentos e aplicações da biblioteca de manipulação de Dados Pandas - Parte 02.
