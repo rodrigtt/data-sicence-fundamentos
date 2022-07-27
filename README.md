@@ -13,3 +13,9 @@ Fundamentos e aplicações da biblioteca de manipulação de Dados Pandas - Part
 
 Aula 04 - Curso 01:
 Fundamentos e aplicações da biblioteca de manipulação de Dados Pandas - Parte 02.
+
+Aula 05 - Curso 01
+Notebook sobre LinearRegression
+
+Aula 06 - Curso 01
+Notebook sobre PolynomialRegression
