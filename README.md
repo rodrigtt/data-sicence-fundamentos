@@ -19,3 +19,9 @@ Notebook sobre LinearRegression
 
 Aula 06 - Curso 01
 Notebook sobre PolynomialRegression
+
+Aula 07 - Curso 02
+Machine Learning Regression com Suport Vector Machinis Regression, e Decision Tree Refression
+
+Aula 08 - Curso 02
+Projeto inicial de uma Machine Learning Classificatiom
